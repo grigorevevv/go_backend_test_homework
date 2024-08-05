@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// Функция нигде не используется
 func Add(a, b int) int {
 	return a + b
 }
