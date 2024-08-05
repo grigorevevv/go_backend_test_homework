@@ -4,8 +4,6 @@ import (
 	"fmt"
 )
 
-}
-
-func main() {
+func my_app() {
 	fmt.Println("Я домашка")
 }
